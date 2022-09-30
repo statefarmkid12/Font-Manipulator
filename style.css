@@ -1,0 +1,33 @@
+.heading{
+    margin-top: 0;
+    width:100%;
+    font-size: 18px;
+}
+
+p{
+    color: black;
+    font-size: 12px;
+}
+
+body{
+    background-image: url('doodle_background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover; 
+}
+
+canvas{
+    box-shadow: 4px 4px 4px gray;
+    background-color:dodgerblue;
+    border-radius: 8px;
+    border-style: ridge;
+}
+
+.copyright_footer{
+    background-color: grey;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    line-height:30px;
+}
